@@ -1,4 +1,4 @@
-//Lezione 1: StartingTS
+//Lezione 0: StartingTS
 let a = "marco";
 console.log(a);
 
