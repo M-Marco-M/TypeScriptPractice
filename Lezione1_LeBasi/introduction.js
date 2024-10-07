@@ -1,4 +1,6 @@
 "use strict";
+//Introduzione
+//www.typescriptlang.org/docs/handbook/2/basic-types.html
 //Supponendo di avere una variabile come
 const message = "Ciao questo è un messaggio";
 //Posso certamente chiamare il metodo .toLowerCase

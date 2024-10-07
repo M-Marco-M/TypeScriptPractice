@@ -1,5 +1,6 @@
 "use strict";
 //Lezione 0: StartingTS
+//www.typescriptlang.org/docs/handbook/intro.html#get-started
 let a = "marco";
 console.log(a);
 a = "5";
